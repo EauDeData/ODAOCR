@@ -1,0 +1,462 @@
+{
+    "MergedFromSeed42": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/all_fused_trained_from_scratch/averaged_model.pth",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Symbols/62.5_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Korean/62.5_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Japanese/62.5_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Hindi/62.5_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Chinese/62.5_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Bangla/62.5_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic Arithmetic 62.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/62.5_subsamples_finetuned_ft_Arabic/62.5_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Symbols/12.5_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Korean/12.5_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Japanese/12.5_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Hindi/12.5_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Chinese/12.5_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Bangla/12.5_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic Arithmetic 12.5": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/12.5_subsamples_finetuned_ft_Arabic/12.5_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Symbols/1.15_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Korean/1.15_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Japanese/1.15_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Hindi/1.15_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Chinese/1.15_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Bangla/1.15_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic Arithmetic 1.15": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/1.15_subsamples_finetuned_ft_Arabic/1.15_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Symbols/0.65_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Korean/0.65_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Japanese/0.65_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Hindi/0.65_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Chinese/0.65_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Bangla/0.65_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic Arithmetic 0.65": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/0.65_subsamples_finetuned_ft_Arabic/0.65_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/bangla/5ksubsample_finetuned_ft_Bangla/5ksubsample_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/bangla/500k_subsamples_finetuned_ft_Bangla/500k_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/bangla/100ksubsample_finetuned_ft_Bangla/100ksubsample_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/bangla/500k_subsamples_finetuned_ft_Arabic/500k_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/bangla/10k_subsamples_finetuned_ft_Bangla/10k_subsamples_finetuned_ft_Bangla.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/chinese/10k_subsamples_finetuned_ft_Chinese/10k_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/chinese/100ksubsample_finetuned_ft_Chinese/100ksubsample_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/chinese/500k_subsamples_finetuned_ft_Chinese/500k_subsamples_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/chinese/5ksubsample_finetuned_ft_Chinese/5ksubsample_finetuned_ft_Chinese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/arabic/5ksubsample_finetuned_ft_Arabic/5ksubsample_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/arabic/100ksubsample_finetuned_ft_Arabic/100ksubsample_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/arabic/10k_subsamples_finetuned_ft_Arabic/10k_subsamples_finetuned_ft_Arabic.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/hindi/10k_subsamples_finetuned_ft_Hindi/10k_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/hindi/100ksubsample_finetuned_ft_Hindi/100ksubsample_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/hindi/500k_subsamples_finetuned_ft_Hindi/500k_subsamples_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/hindi/5ksubsample_finetuned_ft_Hindi/5ksubsample_finetuned_ft_Hindi.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/symbols/10k_subsamples_finetuned_ft_Symbols/10k_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/symbols/5ksubsample_finetuned_ft_Symbols/5ksubsample_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/symbols/100ksubsample_finetuned_ft_Symbols/100ksubsample_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/symbols/500k_subsamples_finetuned_ft_Symbols/500k_subsamples_finetuned_ft_Symbols.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/japanese/5ksubsample_finetuned_ft_Japanese/5ksubsample_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/japanese/500k_subsamples_finetuned_ft_Japanese/500k_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/japanese/10k_subsamples_finetuned_ft_Japanese/10k_subsamples_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/japanese/100ksubsample_finetuned_ft_Japanese/100ksubsample_finetuned_ft_Japanese.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean 5k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/korean/5ksubsample_finetuned_ft_Korean/5ksubsample_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean 10k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/korean/10k_subsamples_finetuned_ft_Korean/10k_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean 100k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/korean/100ksubsample_finetuned_ft_Korean/100ksubsample_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean 500k_subsampling": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/subsampling/korean/500k_subsamples_finetuned_ft_Korean/500k_subsamples_finetuned_ft_Korean.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols from Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_symbols_from_hiertext/few_shot_symbols_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols from Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_symbols_from_ft_both_from_hiertext/few_shot_symbols_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Symbols from Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_symbols_from_averaged_from_hiertext/few_shot_symbols_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi from Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_hindi_from_hiertext/few_shot_hindi_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi from Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_hindi_from_ft_both_from_hiertext/few_shot_hindi_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Hindi from Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_hindi_from_averaged_from_hiertext/few_shot_hindi_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla from Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_bangla_from_hiertext/few_shot_bangla_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Bangla from Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_bangla_from_ft_both_from_hiertext/few_shot_bangla_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Blangla from Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_bangla_from_averaged_from_hiertext/few_shot_bangla_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean from Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_korean_from_hiertext/few_shot_korean_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean from Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_korean_from_ft_both_from_hiertext/few_shot_korean_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Korean from Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_korean_from_averaged_from_hiertext/few_shot_korean_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese from Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_japanese_from_hiertext/few_shot_japanese_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese From Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_japanese_from_ft_both_from_hiertext/few_shot_japanese_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Japanese From Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_japanese_from_averaged_from_hiertext/few_shot_japanese_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese From Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_chinese_from_hiertext/few_shot_chinese_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese From Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_chinese_from_ft_both_from_hiertext/few_shot_chinese_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Chinese From Airthmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_chinese_from_averaged_from_hiertext/few_shot_chinese_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic From Pretrained": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_arabic_from_hiertext/few_shot_arabic_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic From Finetuned": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_arabic_from_ft_both_from_hiertext/few_shot_arabic_from_ft_both_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Arabic From Arithmetic": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/langs_domain_adaptation/few_shot_arabic_from_averaged_from_hiertext/few_shot_arabic_from_averaged_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Scene (average, from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/svd/from_hiertext_sceneonly/averaged_model.pth",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT HW (average, from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/svd/from_hiertext_hwonly/averaged_model.pth",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (average, all, from funsd, manual)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/svd/from_funsd/averaged_model.pth",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (average, all, manual)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/svd/from_hiertext/averaged_model.pth",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (from fused, from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_all_from_fused_from_hiertext/ft_all_from_fused_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Scene (from funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scene_expert_from_funsd/scene_expert_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT TextOCR (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_textocr/scratch_textocr.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT TextOCR (from funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_textocr_from_funsd/ft_textocr_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (average, orthogonal, from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/average_orthogonal_per_dataset_from_hiertext/average_orthogonal_per_dataset_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (average, all, from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/average_all_per_dataset_from_hiertext/average_all_per_dataset_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (0.5 hw expert + 0.5 scene expert from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/50_hw_expert_plus_scene_expert_from_hiertext/50_hw_expert_plus_scene_expert_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Both (hw expert + scene expert from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/hw_expert_plus_scene_expert_from_hiertext/hw_expert_plus_scene_expert_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Scene (both hw, scene from hiertext - hw from hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scene_plus_hw_minus_hw_from_hiertext/scene_plus_hw_minus_hw_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT CoCoText (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_cocotext/scratch_cocotext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT MLT (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_mlt/scratch_mlt.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Washington (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_washington/scratch_washington.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Parzival (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_parzival/scratch_parzival.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT CoCoText (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_cocotext_from_funsd/ft_cocotext_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT MLT (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_mlt_from_funsd/ft_mlt_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Global (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/both_hw_scene_expert_from_hiertext/both_hw_scene_expert_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Esposalles (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_esposalles/scratch_esposalles.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT IAM (scratch)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_iam/scratch_iam.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT GW (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_washington_from_funsd/ft_washington_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Parzival (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_parzival_from_funsd/ft_parzival_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Esposalles (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_esposalles_from_funsd/ft_esposalles_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT IAM (ft funsd)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ft_iam_from_funsd/ft_iam_from_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Pretrained (FUNSD)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scratch_funsd/scratch_funsd.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Scene Expert (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/scene_expert/scene_expert.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "Pretrained (HierText)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/non_linear_hiertext_only_base/non_linear_hiertext_only_base.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT TextOCR (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/fttextocr_from_hiertext/fttextocr_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT CoCoText (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftcocotext_from_hiertext/ftcocotext_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT MLT (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftmlt_from_hiertext/ftmlt_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT HW Expert (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/handwritten_expert/handwritten_expert.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT GW (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftwashington_from_hiertext/ftwashington_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Parzival (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftparzival_from_hiertext/ftparzival_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT Esposalles (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftesposalles_from_hiertext/ftesposalles_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    },
+    "VIT IAM (ft hiertext)": {
+        "checkpoint": "/data2/users/amolina/oda_ocr_output/ftiam_from_hiertext/ftiam_from_hiertext.pt",
+        "tokenizer": "oda_giga_tokenizer"
+    }
+}
