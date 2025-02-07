@@ -239,7 +239,7 @@ def df_to_interactive_html(df):
 if __name__ == '__main__':
     import pandas as pd
     csv = pd.read_csv('models.csv')
-    csv = csv[[x for x in csv if not 'train' in x]]
+    csv = csv[[x for x in csv if (not 'train' in x) and (('accuracy' in x) or ('name' in x.lower()))]]
     html_content = df_to_interactive_html(csv)
     with open('model_card.html', 'w') as f:
         f.write(html_content)
