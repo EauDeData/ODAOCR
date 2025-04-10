@@ -57,6 +57,7 @@ class ViTSTR(VisionTransformer):
         x = x + self.pos_embed
         x = self.pos_drop(x)
 
+        # X = [CLS] + [tkn1, tkn2........, 196]
         for blk in self.blocks:
             x = blk(x)
 
