@@ -1,7 +1,7 @@
 # OCR Generalization for Everyone!
 
 ## Overview
-This repository contains the codebase for the paper **"The OCR Quest for Generalization: Learning to recognize low-resource alphabets with lightweight model editing."** The project focuses on enhancing the generalization ability of OCR models through efficient domain adaptation techniques, enabling recognition of low-resource and unseen alphabets with minimal fine-tuning.
+This repository contains the codebase for the paper **"The OCR Quest for Generalization: Learning to recognize low-resource alphabets with lightweight model editing."** (under review) The project focuses on enhancing the generalization ability of OCR models through efficient domain adaptation techniques, enabling recognition of low-resource and unseen alphabets with minimal fine-tuning.
 
 ## Paper and Author Information
 - **Paper Title:** "The OCR Quest for Generalization: Learning to recognize low-resource alphabets with lightweight model editing."
@@ -9,7 +9,7 @@ This repository contains the codebase for the paper **"The OCR Quest for General
 - **Contact:** [amolina@cvc.uab.cat](mailto:amolina@cvc.uab.cat)
 - **Google Scholar:** [https://scholar.google.com/citations?user=23JU52kAAAAJ&hl=en](https://scholar.google.com/citations?user=23JU52kAAAAJ&hl=en)
 - **Personal Website:** [https://eaudedata.github.io](https://eaudedata.github.io)
-- **Paper Link:** (Provide the link to the paper)
+- **Paper Link:** (Under Review)
 
 ## Features
 - +100 trained OCR models available in `./model_card/model_card.html`.
@@ -73,8 +73,8 @@ If you use this work, please cite it as follows:
 @article{Molina2025OCR,
   author = {A. Molina},
   title = {The OCR Quest for Generalization: Learning to recognize low-resource alphabets with lightweight model editing},
-  journal = {ICDAR 2025},
-  year = {2025},
+  journal = {PAPER UNDER REVIEW; DO NOT SHARE},
+  year = {PAPER UNDER REVIEW; DO NOT SHARE},
 }
 ```
 
