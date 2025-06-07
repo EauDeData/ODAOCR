@@ -12,7 +12,8 @@ This repository contains the codebase for the paper **"The OCR Quest for General
 - **Paper Link:** (Under Review)
 
 ## Features
-- Contact me for accessing +100 trained OCR models available in [the interactive model card]([https://scholar.google.com/citations?user=23JU52kAAAAJ&hl=en](https://eaudedata.github.io/ODAOCR/model_card/model_card.html)). Please, write [ODAOCR] in the subject.
+- Contact me for accessing +100 trained OCR models available in [the interactive model card](https://scholar.google.com/citations?user=23JU52kAAAAJ&hl=en](https://eaudedata.github.io/ODAOCR/model_card/model_card.html
+  ). Please, write [ODAOCR] in the subject.
 - Model filtering by language, accuracy, and other metrics.
 - Pretrained tokenizer and model weights for different scripts.
 - Lightweight model editing for OCR adaptation to new alphabets.
