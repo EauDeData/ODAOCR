@@ -250,7 +250,7 @@ def clean_special_tokens(string, tokenizer):
 
 def make_inference(model, tokenizer, decoder, pil_image, device = 'cuda'):
     transforms = torchvision.transforms.Compose((
-        lambda x: x.resize((224, 224)),
+        lambda x: x.resize((224, 224)).convert('RGB'),
         torchvision.transforms.PILToTensor(),
         lambda x: (x - x.min()) / max((x.max() - x.min()), 0.01))
     )
